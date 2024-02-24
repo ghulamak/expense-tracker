@@ -1,0 +1,72 @@
+
+/* Center the form */
+#expense-form {
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  /* Add some spacing */
+  .mb-3 {
+    margin-bottom: 20px;
+  }
+  
+  /* Style the expense list */
+  /* #expense-list {
+    list-style-type: none;
+    padding: 0;
+  }
+   */
+  /* Style list items */
+  #expense-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 0.5px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  /* Style delete and edit buttons */
+  button {
+    margin-left: 10px;
+  }
+  
+  /* Style form inputs */
+  input[type="text"],
+  input[type="number"],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style form submit button */
+  button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style form submit button on hover */
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style delete and edit buttons */
+  button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style delete and edit buttons on hover */
+  button:hover {
+    background-color: #c82333;
+  }
+  
